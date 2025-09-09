@@ -1,0 +1,4962 @@
+[
+  {
+    "name": "Python Django developer",
+    "url": "https://hh.ru/vacancy/125010047",
+    "salary": {
+      "from": null,
+      "to": 1000,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/124459637",
+    "salary": {
+      "from": null,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Junior Python Developer",
+    "url": "https://hh.ru/vacancy/125066483",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/125112649",
+    "salary": {
+      "from": 250000,
+      "to": 400000,
+      "currency": "KZT",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/125063498",
+    "salary": {
+      "from": 160000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/125025692",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/125011565",
+    "salary": null
+  },
+  {
+    "name": "Middle Backend Developer",
+    "url": "https://hh.ru/vacancy/124989785",
+    "salary": {
+      "from": 1000,
+      "to": null,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/125121175",
+    "salary": {
+      "from": 1300,
+      "to": 1700,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Старший Backend-разработчик",
+    "url": "https://hh.ru/vacancy/125084991",
+    "salary": {
+      "from": 130000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124747909",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик Python (Middle)",
+    "url": "https://hh.ru/vacancy/124967374",
+    "salary": {
+      "from": 100000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/125119883",
+    "salary": {
+      "from": 100000,
+      "to": 180000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Аналитик баз данных/Data Analyst",
+    "url": "https://hh.ru/vacancy/125083437",
+    "salary": null
+  },
+  {
+    "name": "Python backend разработчик",
+    "url": "https://hh.ru/vacancy/125078993",
+    "salary": null
+  },
+  {
+    "name": "Junior Python разработчик",
+    "url": "https://hh.ru/vacancy/124471359",
+    "salary": {
+      "from": 70000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/124825562",
+    "salary": null
+  },
+  {
+    "name": "Junior Python developer",
+    "url": "https://hh.ru/vacancy/124490390",
+    "salary": {
+      "from": null,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Backend-разработчик Python (middle)",
+    "url": "https://hh.ru/vacancy/125103824",
+    "salary": {
+      "from": null,
+      "to": 170000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "ML-инженер",
+    "url": "https://hh.ru/vacancy/125046417",
+    "salary": {
+      "from": 200000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python-разработчик (FastAPI)",
+    "url": "https://hh.ru/vacancy/125086802",
+    "salary": {
+      "from": 100000,
+      "to": 130000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/125038137",
+    "salary": {
+      "from": 1000000,
+      "to": 1500000,
+      "currency": "KZT",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle/Middle+ Разработчик Python (РАМ)",
+    "url": "https://hh.ru/vacancy/125086985",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/125009830",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124931391",
+    "salary": null
+  },
+  {
+    "name": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/124889552",
+    "salary": null
+  },
+  {
+    "name": "Python developer (Junior)",
+    "url": "https://hh.ru/vacancy/124827764",
+    "salary": {
+      "from": null,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/124886105",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/123496183",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124743896",
+    "salary": {
+      "from": null,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик (AI agents)",
+    "url": "https://hh.ru/vacancy/125043991",
+    "salary": null
+  },
+  {
+    "name": "Junior Python-разработчик",
+    "url": "https://hh.ru/vacancy/124931345",
+    "salary": {
+      "from": 75000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124940181",
+    "salary": null
+  },
+  {
+    "name": "Middle+ Python Developer (Django, FastAPI)",
+    "url": "https://hh.ru/vacancy/124971574",
+    "salary": {
+      "from": 80000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/125043267",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124998837",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/124978373",
+    "salary": {
+      "from": 150000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124784661",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/125069819",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/124822274",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/125055778",
+    "salary": null
+  },
+  {
+    "name": "Junior+/Middle Python Developer",
+    "url": "https://hh.ru/vacancy/124732253",
+    "salary": {
+      "from": 800,
+      "to": 1400,
+      "currency": "EUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/124330879",
+    "salary": null
+  },
+  {
+    "name": "Ведущий разработчик Python/Django/DRF",
+    "url": "https://hh.ru/vacancy/125086587",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/124501173",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124899219",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Техлид (Python Django FastAPI + React)",
+    "url": "https://hh.ru/vacancy/124925093",
+    "salary": {
+      "from": null,
+      "to": 400000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior Python-разработчик",
+    "url": "https://hh.ru/vacancy/124560664",
+    "salary": null
+  },
+  {
+    "name": "ML-Python developer",
+    "url": "https://hh.ru/vacancy/125068537",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124600660",
+    "salary": {
+      "from": 150000,
+      "to": 280000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124812676",
+    "salary": {
+      "from": 90000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124223716",
+    "salary": {
+      "from": 130000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/124875431",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/124857428",
+    "salary": {
+      "from": 8000000,
+      "to": 15000000,
+      "currency": "UZS",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124930797",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124822407",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (Junior+/Middle)",
+    "url": "https://hh.ru/vacancy/124226365",
+    "salary": {
+      "from": 1300,
+      "to": 1600,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Developer (FastAPI)",
+    "url": "https://hh.ru/vacancy/124885585",
+    "salary": null
+  },
+  {
+    "name": "Middle Backend Разработчик",
+    "url": "https://hh.ru/vacancy/124328500",
+    "salary": {
+      "from": 180000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Junior+ Python Backend Developer",
+    "url": "https://hh.ru/vacancy/124678017",
+    "salary": null
+  },
+  {
+    "name": "Руководитель отдела разработки backend",
+    "url": "https://hh.ru/vacancy/125016615",
+    "salary": null
+  },
+  {
+    "name": "AI-Developer Junior",
+    "url": "https://hh.ru/vacancy/124181514",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Junior+ Python/Go разработчик",
+    "url": "https://hh.ru/vacancy/124710398",
+    "salary": {
+      "from": 70000,
+      "to": 110000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "QA-инженер",
+    "url": "https://hh.ru/vacancy/124346858",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик / backend разработчик",
+    "url": "https://hh.ru/vacancy/124646691",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124369466",
+    "salary": {
+      "from": 500,
+      "to": null,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Старший разработчик Python",
+    "url": "https://hh.ru/vacancy/124838234",
+    "salary": {
+      "from": 300000,
+      "to": 400000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Middle-Python-разработчик",
+    "url": "https://hh.ru/vacancy/124832161",
+    "salary": {
+      "from": null,
+      "to": 1500,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик (senior)",
+    "url": "https://hh.ru/vacancy/125097493",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик pre-Middle​​",
+    "url": "https://hh.ru/vacancy/123920083",
+    "salary": {
+      "from": 130000,
+      "to": 170000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/124525476",
+    "salary": null
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/124435842",
+    "salary": null
+  },
+  {
+    "name": "Senior Backend Developer (Python)",
+    "url": "https://hh.ru/vacancy/125106634",
+    "salary": null
+  },
+  {
+    "name": "Python Backend-разработчик (middle/senior)",
+    "url": "https://hh.ru/vacancy/123182784",
+    "salary": {
+      "from": 800000,
+      "to": null,
+      "currency": "KZT",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle+ Python Developer",
+    "url": "https://hh.ru/vacancy/124536555",
+    "salary": {
+      "from": null,
+      "to": 4000,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Ведущий разработчик Python (ML)",
+    "url": "https://hh.ru/vacancy/124999475",
+    "salary": null
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/124889298",
+    "salary": {
+      "from": 90000,
+      "to": 140000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/125038848",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer Backend",
+    "url": "https://hh.ru/vacancy/124841561",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Prompt engineer",
+    "url": "https://hh.ru/vacancy/123916993",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer (Маркетинг)",
+    "url": "https://hh.ru/vacancy/125110287",
+    "salary": null
+  },
+  {
+    "name": "Junior python developer",
+    "url": "https://hh.ru/vacancy/124184409",
+    "salary": {
+      "from": 100000,
+      "to": 160000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Backend разработчик в офис (FastAPI)",
+    "url": "https://hh.ru/vacancy/125001570",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle Backend‑разработчик (Python, FastAPI) в AI‑стартап",
+    "url": "https://hh.ru/vacancy/124493711",
+    "salary": {
+      "from": null,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Backend разработчик (Nest.js / FastAPI )",
+    "url": "https://hh.ru/vacancy/124606685",
+    "salary": {
+      "from": 200000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle Python разработчик",
+    "url": "https://hh.ru/vacancy/124680499",
+    "salary": {
+      "from": null,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124071678",
+    "salary": {
+      "from": null,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle веб-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/125121488",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик (junior)",
+    "url": "https://hh.ru/vacancy/122820915",
+    "salary": {
+      "from": 60000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior Python Developer (Web Scraping)",
+    "url": "https://hh.ru/vacancy/124942270",
+    "salary": {
+      "from": 120000,
+      "to": 220000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Backend-разработчик Python (AI / RAG-системы)",
+    "url": "https://hh.ru/vacancy/124882499",
+    "salary": null
+  },
+  {
+    "name": "Middle+ / Senior Backend-Разработчик",
+    "url": "https://hh.ru/vacancy/124785840",
+    "salary": {
+      "from": 210000,
+      "to": 350000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Стажер Backend-разработчик",
+    "url": "https://hh.ru/vacancy/124931925",
+    "salary": {
+      "from": 50000,
+      "to": 60000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Junior/Middle Python разработчик",
+    "url": "https://hh.ru/vacancy/124355581",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Junior Python developer (в офис)",
+    "url": "https://hh.ru/vacancy/123972095",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle/Senior Backend Developer (Python)",
+    "url": "https://hh.ru/vacancy/124702015",
+    "salary": {
+      "from": 800000,
+      "to": 1200000,
+      "currency": "KZT",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124319348",
+    "salary": {
+      "from": null,
+      "to": 340000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/123949974",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/124160141",
+    "salary": {
+      "from": 150000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/124380905",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Гибридный программист",
+    "url": "https://hh.ru/vacancy/125121689",
+    "salary": {
+      "from": 80000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Senior Developer (Blockchain)",
+    "url": "https://hh.ru/vacancy/125109973",
+    "salary": {
+      "from": 500000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Back-end разработчик (продукт по аналитике данных, FastAPI)",
+    "url": "https://hh.ru/vacancy/125066799",
+    "salary": null
+  },
+  {
+    "name": "Middle Python Engineer",
+    "url": "https://hh.ru/vacancy/124791236",
+    "salary": {
+      "from": 4500,
+      "to": 5500,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python Backend Engineer (Middle+)",
+    "url": "https://hh.ru/vacancy/124972158",
+    "salary": null
+  },
+  {
+    "name": "Разработчик python на Django проект",
+    "url": "https://hh.ru/vacancy/125083680",
+    "salary": null
+  },
+  {
+    "name": "Junior Python Developer",
+    "url": "https://hh.ru/vacancy/124581257",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик в Спецпроекты",
+    "url": "https://hh.ru/vacancy/124192617",
+    "salary": null
+  },
+  {
+    "name": "Senior QA / manual/ fullstack/ ведущий инженер по тестированию (строго офис/гибрид)",
+    "url": "https://hh.ru/vacancy/125081066",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/125044356",
+    "salary": null
+  },
+  {
+    "name": "Python backend разработчик",
+    "url": "https://hh.ru/vacancy/124077286",
+    "salary": {
+      "from": null,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/122639109",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик Python",
+    "url": "https://hh.ru/vacancy/123889173",
+    "salary": {
+      "from": 116000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Project Manager (AI Department)",
+    "url": "https://hh.ru/vacancy/124813399",
+    "salary": null
+  },
+  {
+    "name": "Frontend-разработчик (React / Next.js)",
+    "url": "https://hh.ru/vacancy/124618278",
+    "salary": null
+  },
+  {
+    "name": "Junior Full Stack Developer",
+    "url": "https://hh.ru/vacancy/122418610",
+    "salary": {
+      "from": null,
+      "to": 500000,
+      "currency": "KZT",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Developer Backend",
+    "url": "https://hh.ru/vacancy/124104636",
+    "salary": {
+      "from": 80000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "AL/ML/Prompt engineer (Python, GPT, LLaMA, Claude, open-source LLM)",
+    "url": "https://hh.ru/vacancy/125076253",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/124632488",
+    "salary": {
+      "from": 70000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Frontend-разработчик (React / Next.js)",
+    "url": "https://hh.ru/vacancy/124419935",
+    "salary": null
+  },
+  {
+    "name": "Data Engineer",
+    "url": "https://hh.ru/vacancy/124767093",
+    "salary": null
+  },
+  {
+    "name": "Tech Lead Python",
+    "url": "https://hh.ru/vacancy/125112166",
+    "salary": null
+  },
+  {
+    "name": "Software Developer Python",
+    "url": "https://hh.ru/vacancy/124318026",
+    "salary": {
+      "from": 80000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Data Scientist",
+    "url": "https://hh.ru/vacancy/123613186",
+    "salary": null
+  },
+  {
+    "name": "Python backend developer",
+    "url": "https://hh.ru/vacancy/124600357",
+    "salary": {
+      "from": 280000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/124028985",
+    "salary": {
+      "from": 100000,
+      "to": 140000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "AI engineer",
+    "url": "https://hh.ru/vacancy/124904177",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/125097592",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик (PyQt5,PostGIS)",
+    "url": "https://hh.ru/vacancy/124786422",
+    "salary": null
+  },
+  {
+    "name": "Junior Software Developer",
+    "url": "https://hh.ru/vacancy/124781024",
+    "salary": null
+  },
+  {
+    "name": "Back Разработчик Robin&Python",
+    "url": "https://hh.ru/vacancy/124876754",
+    "salary": null
+  },
+  {
+    "name": "Middle Machine Learning Engineer",
+    "url": "https://hh.ru/vacancy/124831158",
+    "salary": {
+      "from": 170000,
+      "to": 280000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Backend Team Lead",
+    "url": "https://hh.ru/vacancy/124757339",
+    "salary": null
+  },
+  {
+    "name": "Разработчик мобильного приложения",
+    "url": "https://hh.ru/vacancy/124892640",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Junior Data Scientist",
+    "url": "https://hh.ru/vacancy/124550560",
+    "salary": null
+  },
+  {
+    "name": "Специалист искусственного интеллекта",
+    "url": "https://hh.ru/vacancy/123995094",
+    "salary": {
+      "from": 400000,
+      "to": 500000,
+      "currency": "KZT",
+      "gross": true
+    }
+  },
+  {
+    "name": "Data Scientist в команду Teleoperations",
+    "url": "https://hh.ru/vacancy/125096057",
+    "salary": null
+  },
+  {
+    "name": "Back-end Middle разработчик (Python, PostgreSQL, FastAPI)",
+    "url": "https://hh.ru/vacancy/124469121",
+    "salary": null
+  },
+  {
+    "name": "Специалист по разработке и анализу данных",
+    "url": "https://hh.ru/vacancy/124782485",
+    "salary": null
+  },
+  {
+    "name": "Junior Python разработчик",
+    "url": "https://hh.ru/vacancy/124426136",
+    "salary": {
+      "from": null,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Разработчик (Backend developer / Python) Middle+",
+    "url": "https://hh.ru/vacancy/123426089",
+    "salary": {
+      "from": 170000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/124771812",
+    "salary": {
+      "from": 150000,
+      "to": 240000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Middle Back-end developer (Новосибирск)",
+    "url": "https://hh.ru/vacancy/124744061",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124631222",
+    "salary": {
+      "from": 130000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Trainee Python Developer",
+    "url": "https://hh.ru/vacancy/123882420",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/124643903",
+    "salary": null
+  },
+  {
+    "name": "Lead Backend (Python)",
+    "url": "https://hh.ru/vacancy/125106907",
+    "salary": null
+  },
+  {
+    "name": "Backend Python/SQL",
+    "url": "https://hh.ru/vacancy/123892205",
+    "salary": {
+      "from": 250000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Системный аналитик",
+    "url": "https://hh.ru/vacancy/124192817",
+    "salary": {
+      "from": null,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124197997",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Ведущий инженер (Python)",
+    "url": "https://hh.ru/vacancy/123658687",
+    "salary": null
+  },
+  {
+    "name": "Python developer (Senior\\Lead)",
+    "url": "https://hh.ru/vacancy/113014072",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer (Team Lead)",
+    "url": "https://hh.ru/vacancy/123532552",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Python backend developer в команду USA-based стартапа (AdTech/MarTech)",
+    "url": "https://hh.ru/vacancy/124248005",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Python (middle+)",
+    "url": "https://hh.ru/vacancy/122690606",
+    "salary": {
+      "from": 120000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "ML-инженер (Computer Vision)",
+    "url": "https://hh.ru/vacancy/124893141",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик (python)",
+    "url": "https://hh.ru/vacancy/124220704",
+    "salary": null
+  },
+  {
+    "name": "Data Scientist – LLM Specialist (Senior)",
+    "url": "https://hh.ru/vacancy/125075428",
+    "salary": null
+  },
+  {
+    "name": "Trainee/Python Developer",
+    "url": "https://hh.ru/vacancy/124165330",
+    "salary": null
+  },
+  {
+    "name": "Senior Python-разработчик",
+    "url": "https://hh.ru/vacancy/125064076",
+    "salary": null
+  },
+  {
+    "name": "AI/AI-agent developer (Python)",
+    "url": "https://hh.ru/vacancy/125111619",
+    "salary": null
+  },
+  {
+    "name": "Middle Python developer",
+    "url": "https://hh.ru/vacancy/124288662",
+    "salary": null
+  },
+  {
+    "name": "Pyton-разработчик",
+    "url": "https://hh.ru/vacancy/124184744",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle Python backend developer (в офис)",
+    "url": "https://hh.ru/vacancy/123841965",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior Backend Engineer",
+    "url": "https://hh.ru/vacancy/124892176",
+    "salary": null
+  },
+  {
+    "name": "AI Intern",
+    "url": "https://hh.ru/vacancy/124726060",
+    "salary": null
+  },
+  {
+    "name": "AI-специалист/AI Engineer (LLM)",
+    "url": "https://hh.ru/vacancy/124582787",
+    "salary": {
+      "from": 120000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/124733100",
+    "salary": {
+      "from": 100000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python-Разработчик (Middle)",
+    "url": "https://hh.ru/vacancy/124295198",
+    "salary": {
+      "from": 150000,
+      "to": 192000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Разработчик Python (Middle)",
+    "url": "https://hh.ru/vacancy/124939081",
+    "salary": {
+      "from": 110000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Программист / Разработчик / Developer middle+ на Python",
+    "url": "https://hh.ru/vacancy/124130635",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/122553944",
+    "salary": {
+      "from": 316470,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Ментор Python-developer (Middle+)",
+    "url": "https://hh.ru/vacancy/124975165",
+    "salary": null
+  },
+  {
+    "name": "ML-инженер",
+    "url": "https://hh.ru/vacancy/125100561",
+    "salary": null
+  },
+  {
+    "name": "Data Scientist",
+    "url": "https://hh.ru/vacancy/124556443",
+    "salary": {
+      "from": 220000,
+      "to": 380000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Senior Developer (Python)",
+    "url": "https://hh.ru/vacancy/124555218",
+    "salary": {
+      "from": 300000,
+      "to": 400000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Full stack Python разработчик",
+    "url": "https://hh.ru/vacancy/124841821",
+    "salary": {
+      "from": 80000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "ML-инженер",
+    "url": "https://hh.ru/vacancy/124169130",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик Python (Екатеринбург)",
+    "url": "https://hh.ru/vacancy/123450217",
+    "salary": null
+  },
+  {
+    "name": "Разработчик (back) Python",
+    "url": "https://hh.ru/vacancy/124711962",
+    "salary": null
+  },
+  {
+    "name": "Главный/старший разработчик Python",
+    "url": "https://hh.ru/vacancy/124690313",
+    "salary": null
+  },
+  {
+    "name": "Middle+/Senior Backend Developer (Python FastAPI + SQL)",
+    "url": "https://hh.ru/vacancy/124463631",
+    "salary": {
+      "from": 250000,
+      "to": 350000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/125041507",
+    "salary": {
+      "from": 1600000,
+      "to": 1800000,
+      "currency": "KZT",
+      "gross": false
+    }
+  },
+  {
+    "name": "Разработчик логики (Python, LLM/Prompt Engineering) - Казахстан",
+    "url": "https://hh.ru/vacancy/124920610",
+    "salary": null
+  },
+  {
+    "name": "Senior python-разработчик (Django)",
+    "url": "https://hh.ru/vacancy/124383523",
+    "salary": null
+  },
+  {
+    "name": "Middle Python-разработчик",
+    "url": "https://hh.ru/vacancy/119302455",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/115878755",
+    "salary": {
+      "from": 180000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle Python Developer (Backend)",
+    "url": "https://hh.ru/vacancy/124338134",
+    "salary": null
+  },
+  {
+    "name": "AI-разработчик / Cпециалист по искусственному интеллекту",
+    "url": "https://hh.ru/vacancy/125083474",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "ML/AI Разработчик",
+    "url": "https://hh.ru/vacancy/123885160",
+    "salary": {
+      "from": null,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Технический лидер Backend-направления (Python, AI/LLM)",
+    "url": "https://hh.ru/vacancy/125074786",
+    "salary": null
+  },
+  {
+    "name": "Data Engineer (Middle)",
+    "url": "https://hh.ru/vacancy/124791203",
+    "salary": {
+      "from": 4500,
+      "to": 5500,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Backend разработчик (middle) Python",
+    "url": "https://hh.ru/vacancy/124272414",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Backend-разработчик / Backend-developer",
+    "url": "https://hh.ru/vacancy/124517826",
+    "salary": null
+  },
+  {
+    "name": "Senior Backend Python Developer",
+    "url": "https://hh.ru/vacancy/124491119",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик (Senior)",
+    "url": "https://hh.ru/vacancy/124225550",
+    "salary": {
+      "from": null,
+      "to": 400000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/124773936",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик (Software Engineer)",
+    "url": "https://hh.ru/vacancy/123054425",
+    "salary": {
+      "from": null,
+      "to": 400000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/123443474",
+    "salary": null
+  },
+  {
+    "name": "Senior Python (FastAPI/Django) Developer",
+    "url": "https://hh.ru/vacancy/123888629",
+    "salary": {
+      "from": 2500,
+      "to": null,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Full Stack разработчик (системы обработки заказов с маркетплейсов)",
+    "url": "https://hh.ru/vacancy/125027665",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Fullstack Python Developer (FastAPI / JS(React/Vue)",
+    "url": "https://hh.ru/vacancy/124729350",
+    "salary": {
+      "from": 200000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Специалист по разработке и обучению ИИ-агента",
+    "url": "https://hh.ru/vacancy/124503786",
+    "salary": {
+      "from": 500,
+      "to": 2000,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "ML-разработчик",
+    "url": "https://hh.ru/vacancy/123991461",
+    "salary": null
+  },
+  {
+    "name": "CV/ML разработчик (Data Scientist)",
+    "url": "https://hh.ru/vacancy/124890999",
+    "salary": {
+      "from": 250000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/123924041",
+    "salary": {
+      "from": 25000,
+      "to": 50000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124699289",
+    "salary": null
+  },
+  {
+    "name": "Middle Python-разработчик (AI)",
+    "url": "https://hh.ru/vacancy/124753457",
+    "salary": null
+  },
+  {
+    "name": "Senior Backend developer - Python / Бэкенд Разработчик",
+    "url": "https://hh.ru/vacancy/124995600",
+    "salary": {
+      "from": 5000,
+      "to": null,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle+ Python Backend Developer",
+    "url": "https://hh.ru/vacancy/123653593",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/124349100",
+    "salary": null
+  },
+  {
+    "name": "DevOps / Backend Engineer (инфраструктура и API)",
+    "url": "https://hh.ru/vacancy/124690029",
+    "salary": {
+      "from": 50000,
+      "to": 90000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "TechLead | Senior Python Backend Developer",
+    "url": "https://hh.ru/vacancy/124772944",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/123911013",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/124502682",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124250492",
+    "salary": {
+      "from": 800000,
+      "to": 1000000,
+      "currency": "KZT",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python разработчик (Middle+ / Senior)",
+    "url": "https://hh.ru/vacancy/124016376",
+    "salary": null
+  },
+  {
+    "name": "Team Lead / Tech Lead",
+    "url": "https://hh.ru/vacancy/124858711",
+    "salary": null
+  },
+  {
+    "name": "Senior ML Engineer (Time Series & MLOps)",
+    "url": "https://hh.ru/vacancy/124933089",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик (офис Санкт-Петербург)",
+    "url": "https://hh.ru/vacancy/124708786",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/124379578",
+    "salary": {
+      "from": 5000,
+      "to": 8000,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Senior Backend Engineer (Python)",
+    "url": "https://hh.ru/vacancy/124026397",
+    "salary": null
+  },
+  {
+    "name": "Backend разработчик",
+    "url": "https://hh.ru/vacancy/123859400",
+    "salary": {
+      "from": 450000,
+      "to": 600000,
+      "currency": "KZT",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/123927227",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/124833379",
+    "salary": null
+  },
+  {
+    "name": "Разработчик VoIP",
+    "url": "https://hh.ru/vacancy/124838903",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/121350226",
+    "salary": null
+  },
+  {
+    "name": "Backend Python программист (Офис)",
+    "url": "https://hh.ru/vacancy/124411232",
+    "salary": {
+      "from": 180000,
+      "to": 230000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Тимлид разработки (Python)",
+    "url": "https://hh.ru/vacancy/124938430",
+    "salary": null
+  },
+  {
+    "name": "Fullstack Engineer (Python, FastAPI, Angular)",
+    "url": "https://hh.ru/vacancy/124928224",
+    "salary": null
+  },
+  {
+    "name": "Middle+ Python-разработчик",
+    "url": "https://hh.ru/vacancy/124078060",
+    "salary": null
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/124107092",
+    "salary": null
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/124733645",
+    "salary": {
+      "from": null,
+      "to": 350000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior .NET Developer (Highload, Fintech)",
+    "url": "https://hh.ru/vacancy/125098082",
+    "salary": {
+      "from": 2500,
+      "to": 3500,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/124586782",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Backend Engineer",
+    "url": "https://hh.ru/vacancy/124657813",
+    "salary": {
+      "from": null,
+      "to": 600000,
+      "currency": "KZT",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/124123373",
+    "salary": null
+  },
+  {
+    "name": "Python Backend Developer",
+    "url": "https://hh.ru/vacancy/124535058",
+    "salary": null
+  },
+  {
+    "name": "Senior Frontend разработчик/Team lead",
+    "url": "https://hh.ru/vacancy/124461273",
+    "salary": {
+      "from": null,
+      "to": 350000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Бэкенд / Фулстек разработчик",
+    "url": "https://hh.ru/vacancy/123980766",
+    "salary": {
+      "from": 80000,
+      "to": 140000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Pre middle NLP/ML Engineer",
+    "url": "https://hh.ru/vacancy/124325673",
+    "salary": {
+      "from": 100000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/124409548",
+    "salary": {
+      "from": 1300000,
+      "to": null,
+      "currency": "KZT",
+      "gross": true
+    }
+  },
+  {
+    "name": "Middle + Python developer (Django/FastAPI) AdTech (в офисе)",
+    "url": "https://hh.ru/vacancy/123435668",
+    "salary": {
+      "from": 170000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior Full Stack Developer",
+    "url": "https://hh.ru/vacancy/124824568",
+    "salary": null
+  },
+  {
+    "name": "Backend Python developer в команду сетевых технологий",
+    "url": "https://hh.ru/vacancy/124007539",
+    "salary": {
+      "from": null,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "AI Engineer",
+    "url": "https://hh.ru/vacancy/124829259",
+    "salary": null
+  },
+  {
+    "name": "Ментор по Python",
+    "url": "https://hh.ru/vacancy/125095840",
+    "salary": {
+      "from": 600,
+      "to": 1300,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/124581283",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик (middle+)",
+    "url": "https://hh.ru/vacancy/123557242",
+    "salary": null
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/117915138",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/118572460",
+    "salary": {
+      "from": null,
+      "to": 570000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/124561861",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Frontend разработчик (middle / React / Next.js)",
+    "url": "https://hh.ru/vacancy/124525747",
+    "salary": {
+      "from": 130000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle FullStack разработчик",
+    "url": "https://hh.ru/vacancy/124311557",
+    "salary": null
+  },
+  {
+    "name": "Python ML/LLM Engineer",
+    "url": "https://hh.ru/vacancy/124168903",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик (офис)",
+    "url": "https://hh.ru/vacancy/124076110",
+    "salary": {
+      "from": 150000,
+      "to": 230000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Руководитель группы разработки (Python)",
+    "url": "https://hh.ru/vacancy/124810743",
+    "salary": null
+  },
+  {
+    "name": "ML Engineer",
+    "url": "https://hh.ru/vacancy/124101320",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик, FastApi",
+    "url": "https://hh.ru/vacancy/124047064",
+    "salary": {
+      "from": null,
+      "to": 160000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Data Scientist в Рейтинги и отзывы [Trust and Safety]",
+    "url": "https://hh.ru/vacancy/125117556",
+    "salary": null
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/124083866",
+    "salary": null
+  },
+  {
+    "name": "Trainee Python Developer (со знанием испанского/итальянского языка)",
+    "url": "https://hh.ru/vacancy/125114176",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/123695397",
+    "salary": {
+      "from": 350000,
+      "to": 450000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Software/Data Engineer (Middle)",
+    "url": "https://hh.ru/vacancy/124722609",
+    "salary": {
+      "from": 4500,
+      "to": 5500,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Middle Python backend developer (FastAPI)",
+    "url": "https://hh.ru/vacancy/120870818",
+    "salary": {
+      "from": 160000,
+      "to": 220000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Backend-разработчик Python",
+    "url": "https://hh.ru/vacancy/124929762",
+    "salary": null
+  },
+  {
+    "name": "ML инженер, Data scientist",
+    "url": "https://hh.ru/vacancy/123872727",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/118847725",
+    "salary": null
+  },
+  {
+    "name": "Разработчик C, Python (BigData)",
+    "url": "https://hh.ru/vacancy/124923238",
+    "salary": null
+  },
+  {
+    "name": "Python Backend Developer",
+    "url": "https://hh.ru/vacancy/123920199",
+    "salary": {
+      "from": null,
+      "to": 1000,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/124184948",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/122837098",
+    "salary": null
+  },
+  {
+    "name": "ML-специалист (Machine Learning Engineer / Data Scientist)",
+    "url": "https://hh.ru/vacancy/124065994",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/123307849",
+    "salary": null
+  },
+  {
+    "name": "Middle Python-разработчик",
+    "url": "https://hh.ru/vacancy/124555150",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/124682037",
+    "salary": null
+  },
+  {
+    "name": "Middle Full-Stack Developer (Python)",
+    "url": "https://hh.ru/vacancy/124083390",
+    "salary": null
+  },
+  {
+    "name": "LLM/AI Engineer (Python)",
+    "url": "https://hh.ru/vacancy/124571283",
+    "salary": {
+      "from": null,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "NeuroKey Backend-разработчик | Python Developer Milld",
+    "url": "https://hh.ru/vacancy/123888696",
+    "salary": {
+      "from": 190000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/124433195",
+    "salary": {
+      "from": 160000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Founding AI Engineer",
+    "url": "https://hh.ru/vacancy/123941683",
+    "salary": {
+      "from": 650000,
+      "to": 800000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Software Engineer (Python)",
+    "url": "https://hh.ru/vacancy/124410555",
+    "salary": null
+  },
+  {
+    "name": "Руководитель отдела разработки ПО (тимлид)",
+    "url": "https://hh.ru/vacancy/124728805",
+    "salary": null
+  },
+  {
+    "name": "Trainee Python Developer",
+    "url": "https://hh.ru/vacancy/124156897",
+    "salary": null
+  },
+  {
+    "name": "Middle Python Engineer",
+    "url": "https://hh.ru/vacancy/124543424",
+    "salary": {
+      "from": 4500,
+      "to": 5500,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/125064939",
+    "salary": null
+  },
+  {
+    "name": "Инженер-разработчик по информационной безопасности",
+    "url": "https://hh.ru/vacancy/124881263",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик (middle+/senior)",
+    "url": "https://hh.ru/vacancy/123916995",
+    "salary": {
+      "from": 246000,
+      "to": 270000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Big Data разработчик Python (в офис)",
+    "url": "https://hh.ru/vacancy/124781435",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (Middle+) в Fintech",
+    "url": "https://hh.ru/vacancy/122944753",
+    "salary": null
+  },
+  {
+    "name": "Python Разработчик (Strong middle)",
+    "url": "https://hh.ru/vacancy/124444469",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/121639845",
+    "salary": null
+  },
+  {
+    "name": "Системный аналитик (Middle)",
+    "url": "https://hh.ru/vacancy/123954956",
+    "salary": {
+      "from": 200000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "ML-инженер",
+    "url": "https://hh.ru/vacancy/123811198",
+    "salary": {
+      "from": 200000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Tech Lead / Ведущий разработчик (Python, Fintech/Blockchain)",
+    "url": "https://hh.ru/vacancy/125122349",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (LLM / AI Agents)",
+    "url": "https://hh.ru/vacancy/124661670",
+    "salary": {
+      "from": 2000,
+      "to": 3000,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Data Scientist",
+    "url": "https://hh.ru/vacancy/123192681",
+    "salary": null
+  },
+  {
+    "name": "Middle DevOps",
+    "url": "https://hh.ru/vacancy/124166640",
+    "salary": {
+      "from": 2000,
+      "to": 2700,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124510837",
+    "salary": null
+  },
+  {
+    "name": "Backend Developer (Python, FastAPI)",
+    "url": "https://hh.ru/vacancy/124789316",
+    "salary": null
+  },
+  {
+    "name": "Fullstack Engineer (Python, FastAPI, Angular)",
+    "url": "https://hh.ru/vacancy/124926796",
+    "salary": null
+  },
+  {
+    "name": "Backend senior/team lead (Python)",
+    "url": "https://hh.ru/vacancy/124357534",
+    "salary": null
+  },
+  {
+    "name": "Python Backend Engineer (Middle)",
+    "url": "https://hh.ru/vacancy/124657812",
+    "salary": null
+  },
+  {
+    "name": "Руководитель группы по разработке интеллектуальных систем",
+    "url": "https://hh.ru/vacancy/124978575",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/123883265",
+    "salary": null
+  },
+  {
+    "name": "Data Science (LLM/NLP)",
+    "url": "https://hh.ru/vacancy/121591197",
+    "salary": null
+  },
+  {
+    "name": "Ведущий программист Центра искусственного интеллекта и науки о данных",
+    "url": "https://hh.ru/vacancy/125097330",
+    "salary": {
+      "from": 299000,
+      "to": 403000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Разработчик Python (Senior), цифровые сервисы",
+    "url": "https://hh.ru/vacancy/124373770",
+    "salary": null
+  },
+  {
+    "name": "Middle Fullstack (Python+React) developer",
+    "url": "https://hh.ru/vacancy/125100357",
+    "salary": {
+      "from": null,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Старший бэкенд-разработчик / Team lead backend-разработки (Python)",
+    "url": "https://hh.ru/vacancy/118568720",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/123620855",
+    "salary": null
+  },
+  {
+    "name": "Инженер-программист (программист/разработчик/developer Python)",
+    "url": "https://hh.ru/vacancy/119081352",
+    "salary": null
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/124190230",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик в офис",
+    "url": "https://hh.ru/vacancy/124105591",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/124123396",
+    "salary": null
+  },
+  {
+    "name": "[Senior/Senior+] Python Developer (Back-End)",
+    "url": "https://hh.ru/vacancy/122770141",
+    "salary": null
+  },
+  {
+    "name": "Разработчик C++",
+    "url": "https://hh.ru/vacancy/124241437",
+    "salary": {
+      "from": null,
+      "to": 350000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Linux System Developer (Python)",
+    "url": "https://hh.ru/vacancy/123762139",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик Junior+, Middle (office)",
+    "url": "https://hh.ru/vacancy/125123357",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/124758136",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/118847757",
+    "salary": null
+  },
+  {
+    "name": "Ведущий разработчик (Python), Fintech",
+    "url": "https://hh.ru/vacancy/124083791",
+    "salary": {
+      "from": 300000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Разработчик цифровых систем",
+    "url": "https://hh.ru/vacancy/123701502",
+    "salary": null
+  },
+  {
+    "name": "DevOps-инженер",
+    "url": "https://hh.ru/vacancy/124346862",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (Data Team)",
+    "url": "https://hh.ru/vacancy/122955976",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик (Senior)",
+    "url": "https://hh.ru/vacancy/124862750",
+    "salary": {
+      "from": 250000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior Backend разработчик продукта на Python",
+    "url": "https://hh.ru/vacancy/124634742",
+    "salary": null
+  },
+  {
+    "name": "Ведущий инженер-программист (Python full-stack)",
+    "url": "https://hh.ru/vacancy/122775713",
+    "salary": null
+  },
+  {
+    "name": "Middle Data Scientist, Отдел сопровождения проектов ИИ",
+    "url": "https://hh.ru/vacancy/123876236",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/123615151",
+    "salary": null
+  },
+  {
+    "name": "Middle AI Engineer (MLOps)",
+    "url": "https://hh.ru/vacancy/123872175",
+    "salary": {
+      "from": null,
+      "to": 2000,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Machine Learning Engineer / Инженер по Машинному Обучению (в офис)",
+    "url": "https://hh.ru/vacancy/122803671",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior Python-разработчик",
+    "url": "https://hh.ru/vacancy/124708672",
+    "salary": null
+  },
+  {
+    "name": "Senior ML Engineer в ИИ-стартап",
+    "url": "https://hh.ru/vacancy/124971513",
+    "salary": null
+  },
+  {
+    "name": "Веб разработчик (Vue.js/Svelte/Python/PHP)",
+    "url": "https://hh.ru/vacancy/124499552",
+    "salary": null
+  },
+  {
+    "name": "Специалист по работе с нейросетями в международный финансовый холдинг",
+    "url": "https://hh.ru/vacancy/124543832",
+    "salary": null
+  },
+  {
+    "name": "ML-инженер",
+    "url": "https://hh.ru/vacancy/123406931",
+    "salary": {
+      "from": 125000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python AI-developer",
+    "url": "https://hh.ru/vacancy/114576137",
+    "salary": null
+  },
+  {
+    "name": "Backend Python разработчик (Middle+/Senior)",
+    "url": "https://hh.ru/vacancy/124072086",
+    "salary": {
+      "from": 200000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "DevOps-инженер",
+    "url": "https://hh.ru/vacancy/124461251",
+    "salary": {
+      "from": null,
+      "to": 350000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/124552938",
+    "salary": null
+  },
+  {
+    "name": "Chief Technology Officer (CTO) \\ Tech Lead",
+    "url": "https://hh.ru/vacancy/124181670",
+    "salary": null
+  },
+  {
+    "name": "Middle Python разработчик",
+    "url": "https://hh.ru/vacancy/122865391",
+    "salary": null
+  },
+  {
+    "name": "Эксперт Data Scientist в Центр искусственного интеллекта",
+    "url": "https://hh.ru/vacancy/124899677",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик (Middle+ / Senior)",
+    "url": "https://hh.ru/vacancy/123121053",
+    "salary": null
+  },
+  {
+    "name": "Head of Python Development",
+    "url": "https://hh.ru/vacancy/124880155",
+    "salary": null
+  },
+  {
+    "name": "Старший бэкэнд разработчик / Senior Python back-end developer",
+    "url": "https://hh.ru/vacancy/124290885",
+    "salary": null
+  },
+  {
+    "name": "Senior Python developer",
+    "url": "https://hh.ru/vacancy/124371446",
+    "salary": null
+  },
+  {
+    "name": "Middle / Senior Backend Developer (Python)",
+    "url": "https://hh.ru/vacancy/124581049",
+    "salary": {
+      "from": 1200000,
+      "to": 1600000,
+      "currency": "KZT",
+      "gross": true
+    }
+  },
+  {
+    "name": "Backend Developer (Python/Django) в AI-стартап",
+    "url": "https://hh.ru/vacancy/124029444",
+    "salary": {
+      "from": null,
+      "to": 300000,
+      "currency": "KZT",
+      "gross": true
+    }
+  },
+  {
+    "name": "Computer Vision инженер",
+    "url": "https://hh.ru/vacancy/124109762",
+    "salary": {
+      "from": 300000,
+      "to": 500000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "AI Специалист / Data Scientist (закрытый контур, LLM)",
+    "url": "https://hh.ru/vacancy/124226638",
+    "salary": null
+  },
+  {
+    "name": "Senior GenAI / ML Engineer",
+    "url": "https://hh.ru/vacancy/125117943",
+    "salary": null
+  },
+  {
+    "name": "Middle AI Engineer",
+    "url": "https://hh.ru/vacancy/123847401",
+    "salary": {
+      "from": 180000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/119419879",
+    "salary": null
+  },
+  {
+    "name": "AI интегратор (middle / Python)",
+    "url": "https://hh.ru/vacancy/124415270",
+    "salary": {
+      "from": 130000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Разработчик Python (Junior+)",
+    "url": "https://hh.ru/vacancy/122026241",
+    "salary": null
+  },
+  {
+    "name": "Middle ML/NLP Engineer в [Прогрессоры, МТС Веб Сервисы]",
+    "url": "https://hh.ru/vacancy/124724741",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/124223509",
+    "salary": null
+  },
+  {
+    "name": "Python Engineer Минск",
+    "url": "https://hh.ru/vacancy/123705578",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик (Frontend/Backend) Strong Middle/Senior",
+    "url": "https://hh.ru/vacancy/124648486",
+    "salary": {
+      "from": 450000,
+      "to": 700000,
+      "currency": "KZT",
+      "gross": true
+    }
+  },
+  {
+    "name": "Системный аналитик",
+    "url": "https://hh.ru/vacancy/124585618",
+    "salary": null
+  },
+  {
+    "name": "Full-stack Software Developer / Фулстек разработчик ПО",
+    "url": "https://hh.ru/vacancy/124879337",
+    "salary": null
+  },
+  {
+    "name": "Middle/Senior ML-инженер",
+    "url": "https://hh.ru/vacancy/124839704",
+    "salary": null
+  },
+  {
+    "name": "Руководитель группы разработки (Python)",
+    "url": "https://hh.ru/vacancy/124578141",
+    "salary": null
+  },
+  {
+    "name": "Rust-разработчик",
+    "url": "https://hh.ru/vacancy/124647233",
+    "salary": null
+  },
+  {
+    "name": "Python Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/124229237",
+    "salary": null
+  },
+  {
+    "name": "Senior Backend Engineer",
+    "url": "https://hh.ru/vacancy/125061220",
+    "salary": null
+  },
+  {
+    "name": "Data Engineer / Инженер данных (гибридный формат)",
+    "url": "https://hh.ru/vacancy/124264641",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Back-End Developer (Fintech)",
+    "url": "https://hh.ru/vacancy/124076246",
+    "salary": {
+      "from": null,
+      "to": 5000,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Team Lead Python",
+    "url": "https://hh.ru/vacancy/124426266",
+    "salary": {
+      "from": 1300000,
+      "to": 1600000,
+      "currency": "KZT",
+      "gross": false
+    }
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/122309727",
+    "salary": {
+      "from": 375000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "AI-разработчик (Разработчик систем искусственного интеллекта)",
+    "url": "https://hh.ru/vacancy/123593482",
+    "salary": null
+  },
+  {
+    "name": "Senior Python разработчик на платформу управления виртуализацией",
+    "url": "https://hh.ru/vacancy/122428449",
+    "salary": null
+  },
+  {
+    "name": "ML-инженер",
+    "url": "https://hh.ru/vacancy/124545022",
+    "salary": null
+  },
+  {
+    "name": "ML-инженер (Middle)",
+    "url": "https://hh.ru/vacancy/124104813",
+    "salary": {
+      "from": 120000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python backend-разработчик (Middle/Senior)",
+    "url": "https://hh.ru/vacancy/124469128",
+    "salary": null
+  },
+  {
+    "name": "Odoo developer",
+    "url": "https://hh.ru/vacancy/124340811",
+    "salary": {
+      "from": null,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Разработчик python",
+    "url": "https://hh.ru/vacancy/124378795",
+    "salary": null
+  },
+  {
+    "name": "Инженер по автоматизации (Python)",
+    "url": "https://hh.ru/vacancy/124318549",
+    "salary": null
+  },
+  {
+    "name": "Разработчик RPA - ДВС",
+    "url": "https://hh.ru/vacancy/124055805",
+    "salary": null
+  },
+  {
+    "name": "Python Developer в департамент кредитных рисков",
+    "url": "https://hh.ru/vacancy/121606282",
+    "salary": null
+  },
+  {
+    "name": "Senior Backend Python Developer (+Rust)",
+    "url": "https://hh.ru/vacancy/124491651",
+    "salary": null
+  },
+  {
+    "name": "Middle Python Back-End разработчик",
+    "url": "https://hh.ru/vacancy/124350763",
+    "salary": null
+  },
+  {
+    "name": "Senior Python-разработчик",
+    "url": "https://hh.ru/vacancy/124083773",
+    "salary": null
+  },
+  {
+    "name": "DevOps / SRE-инженер",
+    "url": "https://hh.ru/vacancy/124233493",
+    "salary": null
+  },
+  {
+    "name": "Senior python разработчик",
+    "url": "https://hh.ru/vacancy/124497098",
+    "salary": null
+  },
+  {
+    "name": "TechLead команды (AI данные)",
+    "url": "https://hh.ru/vacancy/125088654",
+    "salary": null
+  },
+  {
+    "name": "Computer Vision / AI Engineer",
+    "url": "https://hh.ru/vacancy/124126211",
+    "salary": {
+      "from": 3800,
+      "to": null,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Backend-разработчик Middle+ (Django)",
+    "url": "https://hh.ru/vacancy/124463134",
+    "salary": {
+      "from": null,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Senior Developer",
+    "url": "https://hh.ru/vacancy/124382188",
+    "salary": null
+  },
+  {
+    "name": "Senior Back-end developer из Новосибирска",
+    "url": "https://hh.ru/vacancy/124744310",
+    "salary": null
+  },
+  {
+    "name": "ML разработчик",
+    "url": "https://hh.ru/vacancy/124369193",
+    "salary": null
+  },
+  {
+    "name": "Backend разработчик Python (Big Data)",
+    "url": "https://hh.ru/vacancy/124409649",
+    "salary": null
+  },
+  {
+    "name": "Senior NLP/ML Engineer",
+    "url": "https://hh.ru/vacancy/124328169",
+    "salary": {
+      "from": 300000,
+      "to": 400000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Lead Python Developer",
+    "url": "https://hh.ru/vacancy/124910308",
+    "salary": null
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/124628340",
+    "salary": null
+  },
+  {
+    "name": "ML разработчик (RAG)",
+    "url": "https://hh.ru/vacancy/124865986",
+    "salary": null
+  },
+  {
+    "name": "Senior Python-разработчик в команду \"Твой Магнит\"",
+    "url": "https://hh.ru/vacancy/124076130",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик Senior",
+    "url": "https://hh.ru/vacancy/124545009",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/124833183",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик (Middle+ / Senior)",
+    "url": "https://hh.ru/vacancy/123297423",
+    "salary": null
+  },
+  {
+    "name": "Разработчик для автоматизации процессов и интеграции LLM",
+    "url": "https://hh.ru/vacancy/123919988",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Senior/Techlead Python-разработчик",
+    "url": "https://hh.ru/vacancy/123939091",
+    "salary": null
+  },
+  {
+    "name": "Backend Developer",
+    "url": "https://hh.ru/vacancy/122287226",
+    "salary": null
+  },
+  {
+    "name": "ML Developer",
+    "url": "https://hh.ru/vacancy/124536895",
+    "salary": null
+  },
+  {
+    "name": "Prompt Engineer",
+    "url": "https://hh.ru/vacancy/124788607",
+    "salary": null
+  },
+  {
+    "name": "Senior System Engineer (Python/Golang)/Старший Системный Инженер (Python/Golang)",
+    "url": "https://hh.ru/vacancy/123751724",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Rust (full office)",
+    "url": "https://hh.ru/vacancy/121778885",
+    "salary": null
+  },
+  {
+    "name": "ML-инженер",
+    "url": "https://hh.ru/vacancy/123909003",
+    "salary": {
+      "from": null,
+      "to": 160000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Big Data разработчик (Python) в офис",
+    "url": "https://hh.ru/vacancy/124781436",
+    "salary": null
+  },
+  {
+    "name": "Data Scientist / CV Researcher",
+    "url": "https://hh.ru/vacancy/123433013",
+    "salary": {
+      "from": 200000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Data Engineer AI focused",
+    "url": "https://hh.ru/vacancy/124160202",
+    "salary": null
+  },
+  {
+    "name": "ML-инженер (рекомендательные системы, ALS/ANN)",
+    "url": "https://hh.ru/vacancy/124602250",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer (аналитическая платформа)",
+    "url": "https://hh.ru/vacancy/124512898",
+    "salary": null
+  },
+  {
+    "name": "Аналитик в команду \"Рекомендации\"",
+    "url": "https://hh.ru/vacancy/119961243",
+    "salary": null
+  },
+  {
+    "name": "Senior/Lead Data Scientist (AI in Operations)",
+    "url": "https://hh.ru/vacancy/125105710",
+    "salary": null
+  },
+  {
+    "name": "Senior Python-разработчик Жизнь",
+    "url": "https://hh.ru/vacancy/124702356",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/124599524",
+    "salary": {
+      "from": 720000,
+      "to": null,
+      "currency": "KZT",
+      "gross": true
+    }
+  },
+  {
+    "name": "Старший руководитель исследовательских проектов (Лаборатория нейронаук и поведения человека)",
+    "url": "https://hh.ru/vacancy/124757765",
+    "salary": null
+  },
+  {
+    "name": "Middle+/Senior Python developer",
+    "url": "https://hh.ru/vacancy/123881485",
+    "salary": {
+      "from": 350000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик (Senior), страховые продукты",
+    "url": "https://hh.ru/vacancy/124874488",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик (Python + PHP)",
+    "url": "https://hh.ru/vacancy/124597475",
+    "salary": {
+      "from": 600000,
+      "to": 1000000,
+      "currency": "KZT",
+      "gross": true
+    }
+  },
+  {
+    "name": "Backend/FullStack-разработчик (Java/Python)",
+    "url": "https://hh.ru/vacancy/123985651",
+    "salary": {
+      "from": 450000,
+      "to": 500000,
+      "currency": "KZT",
+      "gross": true
+    }
+  },
+  {
+    "name": "AI-разработчик агентов Middle",
+    "url": "https://hh.ru/vacancy/124638032",
+    "salary": {
+      "from": 800000,
+      "to": 1200000,
+      "currency": "KZT",
+      "gross": true
+    }
+  },
+  {
+    "name": "Middle Machine Learning Engineer",
+    "url": "https://hh.ru/vacancy/124334442",
+    "salary": null
+  },
+  {
+    "name": "ИТ-Лидер команды (Внедрение ML решений)",
+    "url": "https://hh.ru/vacancy/124839941",
+    "salary": null
+  },
+  {
+    "name": "Ведущий python программист/Senior",
+    "url": "https://hh.ru/vacancy/124465206",
+    "salary": null
+  },
+  {
+    "name": "Fullstack разработчик (fullstack developer)",
+    "url": "https://hh.ru/vacancy/123985648",
+    "salary": {
+      "from": 100000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior Python engineer",
+    "url": "https://hh.ru/vacancy/124183218",
+    "salary": {
+      "from": 3000,
+      "to": 6500,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Middle Fullstack Developer",
+    "url": "https://hh.ru/vacancy/123902911",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/122388202",
+    "salary": null
+  },
+  {
+    "name": "ML-разработчик",
+    "url": "https://hh.ru/vacancy/124012609",
+    "salary": null
+  },
+  {
+    "name": "Fullstack AI Developer",
+    "url": "https://hh.ru/vacancy/122571403",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/122895763",
+    "salary": null
+  },
+  {
+    "name": "Специалист машинного обучения (Middle ML engineer)",
+    "url": "https://hh.ru/vacancy/123710175",
+    "salary": null
+  },
+  {
+    "name": "Старший backend-разработчик (Python) в AHUB:AI",
+    "url": "https://hh.ru/vacancy/123884001",
+    "salary": {
+      "from": 5000,
+      "to": null,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Специалист машинного обучения (Middle ML engineer)",
+    "url": "https://hh.ru/vacancy/123710174",
+    "salary": null
+  },
+  {
+    "name": "Lead Backend Engineer (Python, Asyncio)",
+    "url": "https://hh.ru/vacancy/124448873",
+    "salary": {
+      "from": 380000,
+      "to": 450000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Senior Data Engineer",
+    "url": "https://hh.ru/vacancy/123421145",
+    "salary": null
+  },
+  {
+    "name": "Middle/Senior Fullstack WebXR Developer",
+    "url": "https://hh.ru/vacancy/124607258",
+    "salary": null
+  },
+  {
+    "name": "Руководитель команды разработки (Team Lead Python)",
+    "url": "https://hh.ru/vacancy/124016271",
+    "salary": null
+  },
+  {
+    "name": "Data Science",
+    "url": "https://hh.ru/vacancy/124144560",
+    "salary": null
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/124337310",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (MLOps Team)",
+    "url": "https://hh.ru/vacancy/122854262",
+    "salary": null
+  },
+  {
+    "name": "ML-инженер",
+    "url": "https://hh.ru/vacancy/123609102",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/122309731",
+    "salary": {
+      "from": 375000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Data scientist (Video RecSys)",
+    "url": "https://hh.ru/vacancy/124964214",
+    "salary": null
+  },
+  {
+    "name": "Data Scientist",
+    "url": "https://hh.ru/vacancy/124688054",
+    "salary": null
+  },
+  {
+    "name": "Senior/Team Lead Backend Engineer",
+    "url": "https://hh.ru/vacancy/124429937",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Python в LLM Platform",
+    "url": "https://hh.ru/vacancy/124050164",
+    "salary": null
+  },
+  {
+    "name": "Data engineer (Python Hadoop Spark)",
+    "url": "https://hh.ru/vacancy/124016238",
+    "salary": null
+  },
+  {
+    "name": "Старший инженер",
+    "url": "https://hh.ru/vacancy/124357404",
+    "salary": {
+      "from": null,
+      "to": 90000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "AI Engineer",
+    "url": "https://hh.ru/vacancy/124629825",
+    "salary": null
+  },
+  {
+    "name": "R&D AI Engineer",
+    "url": "https://hh.ru/vacancy/123874813",
+    "salary": null
+  },
+  {
+    "name": "Архитектор решений (Solution Architect)",
+    "url": "https://hh.ru/vacancy/124296654",
+    "salary": null
+  },
+  {
+    "name": "Программист (C# разработчик)",
+    "url": "https://hh.ru/vacancy/119775921",
+    "salary": {
+      "from": 150000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Старший разработчик Python",
+    "url": "https://hh.ru/vacancy/119773915",
+    "salary": null
+  },
+  {
+    "name": "Data Scientist",
+    "url": "https://hh.ru/vacancy/124785873",
+    "salary": null
+  },
+  {
+    "name": "DevOps/MLOps инженер",
+    "url": "https://hh.ru/vacancy/124364575",
+    "salary": null
+  },
+  {
+    "name": "Senior Python dev / Techlead",
+    "url": "https://hh.ru/vacancy/123665457",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик Python React",
+    "url": "https://hh.ru/vacancy/124614185",
+    "salary": {
+      "from": 90000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/116347834",
+    "salary": null
+  },
+  {
+    "name": "SRE-инженер в команду клиентского интерфейса",
+    "url": "https://hh.ru/vacancy/124154698",
+    "salary": {
+      "from": null,
+      "to": 570000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/124173905",
+    "salary": null
+  },
+  {
+    "name": "Web-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/124712809",
+    "salary": null
+  },
+  {
+    "name": "Data Scientist",
+    "url": "https://hh.ru/vacancy/121392934",
+    "salary": null
+  },
+  {
+    "name": "FullStack TeamLead",
+    "url": "https://hh.ru/vacancy/124505194",
+    "salary": null
+  },
+  {
+    "name": "Алгоритмист - разработчик (Applied ML)",
+    "url": "https://hh.ru/vacancy/118640768",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Python в LLM Platform",
+    "url": "https://hh.ru/vacancy/124045574",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/124707223",
+    "salary": null
+  },
+  {
+    "name": "Data Engineer",
+    "url": "https://hh.ru/vacancy/124545605",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "KGS",
+      "gross": true
+    }
+  },
+  {
+    "name": "Senior Data Scientist в команду NLP Search",
+    "url": "https://hh.ru/vacancy/125045293",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик (GO+Python), Chocofood",
+    "url": "https://hh.ru/vacancy/124383700",
+    "salary": null
+  },
+  {
+    "name": "Data scientist",
+    "url": "https://hh.ru/vacancy/123132985",
+    "salary": null
+  },
+  {
+    "name": "ML Engineer",
+    "url": "https://hh.ru/vacancy/123604004",
+    "salary": null
+  },
+  {
+    "name": "IDP-разработчик",
+    "url": "https://hh.ru/vacancy/124268506",
+    "salary": null
+  },
+  {
+    "name": "Python developer (Django)",
+    "url": "https://hh.ru/vacancy/124365692",
+    "salary": null
+  },
+  {
+    "name": "Data Engineer (инженер по данным)",
+    "url": "https://hh.ru/vacancy/124007776",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик / Django (Wagtail) / Middle в офис",
+    "url": "https://hh.ru/vacancy/124706933",
+    "salary": null
+  },
+  {
+    "name": "Senior Full Stack Developer",
+    "url": "https://hh.ru/vacancy/123893374",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик FastAPI (Офис Краснодар)",
+    "url": "https://hh.ru/vacancy/123899791",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик (Python, Vue.js)",
+    "url": "https://hh.ru/vacancy/124563322",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Инженер по интеграции ИИ-решений",
+    "url": "https://hh.ru/vacancy/124838767",
+    "salary": null
+  },
+  {
+    "name": "Разработчик AI-агентов (корпоративные финансы)",
+    "url": "https://hh.ru/vacancy/124931975",
+    "salary": null
+  },
+  {
+    "name": "Инженер-программист (разработка настольных приложений)",
+    "url": "https://hh.ru/vacancy/124553260",
+    "salary": null
+  },
+  {
+    "name": "Lead Python developer",
+    "url": "https://hh.ru/vacancy/121889881",
+    "salary": null
+  },
+  {
+    "name": "Middle MLOps Engineer (Recommendation Systems)",
+    "url": "https://hh.ru/vacancy/123438135",
+    "salary": null
+  },
+  {
+    "name": "Data Engineer",
+    "url": "https://hh.ru/vacancy/122956695",
+    "salary": null
+  },
+  {
+    "name": "Prompt Engineer (AI Agents & Automation)",
+    "url": "https://hh.ru/vacancy/124687743",
+    "salary": null
+  },
+  {
+    "name": "ML Engineer (Speech)",
+    "url": "https://hh.ru/vacancy/124005514",
+    "salary": null
+  },
+  {
+    "name": "Ведущий разработчик Full Stek",
+    "url": "https://hh.ru/vacancy/124417567",
+    "salary": null
+  },
+  {
+    "name": "Senior/Lead ML Engineer [CICADA8]",
+    "url": "https://hh.ru/vacancy/124554972",
+    "salary": null
+  },
+  {
+    "name": "Ведущий Fullstack-разработчик / Тимлид",
+    "url": "https://hh.ru/vacancy/124827537",
+    "salary": null
+  },
+  {
+    "name": "Tech Lead (Python, Vue3+TypeScript)",
+    "url": "https://hh.ru/vacancy/124644409",
+    "salary": null
+  },
+  {
+    "name": "ML Инженер / Инженер по машинному обучению",
+    "url": "https://hh.ru/vacancy/123298542",
+    "salary": null
+  },
+  {
+    "name": "Middle RAG-инженер",
+    "url": "https://hh.ru/vacancy/124702320",
+    "salary": null
+  },
+  {
+    "name": "Team/Tech Lead Python",
+    "url": "https://hh.ru/vacancy/121665654",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124705581",
+    "salary": null
+  },
+  {
+    "name": "Программист группы внедрения",
+    "url": "https://hh.ru/vacancy/124186908",
+    "salary": null
+  },
+  {
+    "name": "Senior Python backend developer",
+    "url": "https://hh.ru/vacancy/123309351",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer (AI & Data Science)",
+    "url": "https://hh.ru/vacancy/124686769",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Ведущий ML инженер",
+    "url": "https://hh.ru/vacancy/123095458",
+    "salary": null
+  },
+  {
+    "name": "Инженер по автоматизации тестирования (Направление качества разработки ПО)",
+    "url": "https://hh.ru/vacancy/124430434",
+    "salary": null
+  },
+  {
+    "name": "ML-инженер",
+    "url": "https://hh.ru/vacancy/124314811",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer (AI)",
+    "url": "https://hh.ru/vacancy/124015203",
+    "salary": {
+      "from": 3800,
+      "to": 4500,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "AWS Cloud Architect",
+    "url": "https://hh.ru/vacancy/124826420",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Python в LLM Platform",
+    "url": "https://hh.ru/vacancy/124026165",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/124069446",
+    "salary": null
+  },
+  {
+    "name": "Full Stack Engineer",
+    "url": "https://hh.ru/vacancy/124496489",
+    "salary": null
+  },
+  {
+    "name": "ML Engineer (\"Search\")",
+    "url": "https://hh.ru/vacancy/121806820",
+    "salary": null
+  },
+  {
+    "name": "Руководитель ИТ- проектов (e-comm)",
+    "url": "https://hh.ru/vacancy/123461531",
+    "salary": null
+  },
+  {
+    "name": "Старший инженер-программист (Лаборатория кибер-физических систем)",
+    "url": "https://hh.ru/vacancy/123702866",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Разработчик (Astra Migration Tool)",
+    "url": "https://hh.ru/vacancy/124231769",
+    "salary": null
+  },
+  {
+    "name": "LLM-инженер (AI-агент/GigaChat)",
+    "url": "https://hh.ru/vacancy/124379582",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик / ML AI",
+    "url": "https://hh.ru/vacancy/124056869",
+    "salary": null
+  },
+  {
+    "name": "Начальник отдела телефонных технологий (CRM)",
+    "url": "https://hh.ru/vacancy/124166578",
+    "salary": null
+  },
+  {
+    "name": "Solution Implementation Engineer, Development / Инженер по внедрению и сопровождению",
+    "url": "https://hh.ru/vacancy/124278354",
+    "salary": null
+  },
+  {
+    "name": "Senior AI Backend Engineer - Multi-Agent Systems",
+    "url": "https://hh.ru/vacancy/124188251",
+    "salary": {
+      "from": 1500,
+      "to": null,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Middle Full-Stack разработчик (Python + Computer Vision + Аналитика) для сети пиццерий",
+    "url": "https://hh.ru/vacancy/124324592",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Ведущий разработчик, ML",
+    "url": "https://hh.ru/vacancy/124564896",
+    "salary": null
+  },
+  {
+    "name": "ML разработчик/Ops (GenAI)",
+    "url": "https://hh.ru/vacancy/124838528",
+    "salary": {
+      "from": 230000,
+      "to": 280000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Middle AI Mentor",
+    "url": "https://hh.ru/vacancy/124404588",
+    "salary": {
+      "from": 800,
+      "to": 1500,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Senior Python developer (Санкт-Петербург)",
+    "url": "https://hh.ru/vacancy/119787452",
+    "salary": null
+  },
+  {
+    "name": "Team Lead по автоматизации (n8n)",
+    "url": "https://hh.ru/vacancy/124306605",
+    "salary": {
+      "from": 200000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Специалист-разработчик",
+    "url": "https://hh.ru/vacancy/121737089",
+    "salary": null
+  },
+  {
+    "name": "DS/ML инженер, Отдел разработки математических моделей и ERP систем, Ozon Fresh",
+    "url": "https://hh.ru/vacancy/123283405",
+    "salary": null
+  },
+  {
+    "name": "MLOps-инженер",
+    "url": "https://hh.ru/vacancy/124318413",
+    "salary": {
+      "from": null,
+      "to": 550000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Руководитель группы разработки (Python)",
+    "url": "https://hh.ru/vacancy/123537650",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик (Middle+), Machine Learning",
+    "url": "https://hh.ru/vacancy/122680600",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Backend - разработчик",
+    "url": "https://hh.ru/vacancy/123930326",
+    "salary": null
+  },
+  {
+    "name": "Аналитик данных в команду Интегрированного бизнес-планирования",
+    "url": "https://hh.ru/vacancy/124562907",
+    "salary": null
+  },
+  {
+    "name": "Руководитель команды разработки (Python)",
+    "url": "https://hh.ru/vacancy/123615597",
+    "salary": null
+  },
+  {
+    "name": "Data Engineer",
+    "url": "https://hh.ru/vacancy/121518012",
+    "salary": null
+  },
+  {
+    "name": "Senior/TeamLead Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/123441067",
+    "salary": null
+  },
+  {
+    "name": "Cloud engineer/MLOps/DevOps (MWS AI)",
+    "url": "https://hh.ru/vacancy/124183653",
+    "salary": null
+  },
+  {
+    "name": "Старший Python-разработчик (FastApi) в офис",
+    "url": "https://hh.ru/vacancy/124934639",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик (Senior), Machine Learning",
+    "url": "https://hh.ru/vacancy/122592646",
+    "salary": null
+  },
+  {
+    "name": "Team Lead MLOps",
+    "url": "https://hh.ru/vacancy/124726239",
+    "salary": null
+  },
+  {
+    "name": "Начальник отдела клиентских систем",
+    "url": "https://hh.ru/vacancy/124188991",
+    "salary": null
+  },
+  {
+    "name": "Старший DS-инженер (Группа прогнозирования и оптимизации, Ozon Fresh)",
+    "url": "https://hh.ru/vacancy/124383198",
+    "salary": null
+  },
+  {
+    "name": "Senior ML-инженер по генеративному ИИ\\Diffusion (MWS AI)",
+    "url": "https://hh.ru/vacancy/124325317",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Python в LLM Platform",
+    "url": "https://hh.ru/vacancy/124032895",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (senior)",
+    "url": "https://hh.ru/vacancy/120740885",
+    "salary": null
+  },
+  {
+    "name": "Technical Lead Backend на Python в Фемиду",
+    "url": "https://hh.ru/vacancy/124403642",
+    "salary": null
+  },
+  {
+    "name": "Senior NLP Engineer (Центр практического искусственного интеллекта)",
+    "url": "https://hh.ru/vacancy/120820097",
+    "salary": null
+  },
+  {
+    "name": "Senior ML-инженер (NLP/LLM)",
+    "url": "https://hh.ru/vacancy/123959493",
+    "salary": null
+  },
+  {
+    "name": "Team Lead (E-commerce)",
+    "url": "https://hh.ru/vacancy/123895049",
+    "salary": null
+  },
+  {
+    "name": "CV Engineer (Видеоаналитика)",
+    "url": "https://hh.ru/vacancy/124173280",
+    "salary": null
+  },
+  {
+    "name": "ML Lead",
+    "url": "https://hh.ru/vacancy/120811282",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик AI Middle+/Senior",
+    "url": "https://hh.ru/vacancy/122225099",
+    "salary": null
+  },
+  {
+    "name": "Старший инженер-программист (ML)",
+    "url": "https://hh.ru/vacancy/124125127",
+    "salary": null
+  },
+  {
+    "name": "ИТ-Лидер команды (Внедрение ML решений)",
+    "url": "https://hh.ru/vacancy/124281401",
+    "salary": null
+  },
+  {
+    "name": "Руководитель направления Python",
+    "url": "https://hh.ru/vacancy/124635972",
+    "salary": null
+  },
+  {
+    "name": "Аналитик-разработчик в \"Поиск\" (middle+/senior)",
+    "url": "https://hh.ru/vacancy/121806804",
+    "salary": null
+  },
+  {
+    "name": "Архитектор (Data/AI)",
+    "url": "https://hh.ru/vacancy/123532830",
+    "salary": null
+  },
+  {
+    "name": "Аналитик-разработчик в команду \"Платформа экспериментов\"",
+    "url": "https://hh.ru/vacancy/121806763",
+    "salary": null
+  },
+  {
+    "name": "Data Scientist в Видеоаналитику [Trust and Safety]",
+    "url": "https://hh.ru/vacancy/123820485",
+    "salary": null
+  },
+  {
+    "name": "MLops engineer",
+    "url": "https://hh.ru/vacancy/123685316",
+    "salary": null
+  },
+  {
+    "name": "Senior AI Engineer",
+    "url": "https://hh.ru/vacancy/124294185",
+    "salary": null
+  },
+  {
+    "name": "ML-Ops (RnD)",
+    "url": "https://hh.ru/vacancy/123845480",
+    "salary": null
+  },
+  {
+    "name": "Senior / Expert Computer Vision Engineer",
+    "url": "https://hh.ru/vacancy/123532597",
+    "salary": null
+  },
+  {
+    "name": "Senior Machine Learning Engineer",
+    "url": "https://hh.ru/vacancy/124486103",
+    "salary": null
+  },
+  {
+    "name": "Технический Project Manager",
+    "url": "https://hh.ru/vacancy/124600536",
+    "salary": null
+  },
+  {
+    "name": "Senior Backend Python Developer (LLM, AI)",
+    "url": "https://hh.ru/vacancy/123705620",
+    "salary": {
+      "from": null,
+      "to": 5500,
+      "currency": "EUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "MLOps (Senior)",
+    "url": "https://hh.ru/vacancy/123724878",
+    "salary": null
+  },
+  {
+    "name": "MLOps",
+    "url": "https://hh.ru/vacancy/122713507",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/123965437",
+    "salary": null
+  },
+  {
+    "name": "Middle AI Engineer в команду AI Automation [MWS Cloud Platform]",
+    "url": "https://hh.ru/vacancy/123553761",
+    "salary": null
+  },
+  {
+    "name": "Старший Инженер по автоматизации тестирования",
+    "url": "https://hh.ru/vacancy/124291617",
+    "salary": null
+  },
+  {
+    "name": "Senior Data Scientist (LLM)",
+    "url": "https://hh.ru/vacancy/124500130",
+    "salary": null
+  },
+  {
+    "name": "MLOps Инженер (Лаборатория ИИ)",
+    "url": "https://hh.ru/vacancy/124266290",
+    "salary": null
+  },
+  {
+    "name": "Senior data engineer",
+    "url": "https://hh.ru/vacancy/121469475",
+    "salary": null
+  },
+  {
+    "name": "Преподаватель-программист детской школы программирования (Python,Scratch)",
+    "url": "https://hh.ru/vacancy/124249075",
+    "salary": {
+      "from": 30000,
+      "to": 40000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Руководитель группы разработки / TeamLead Python Developer",
+    "url": "https://hh.ru/vacancy/121162138",
+    "salary": null
+  },
+  {
+    "name": "Старший Python-разработчик (Django, Wagtail) в офис",
+    "url": "https://hh.ru/vacancy/120832607",
+    "salary": null
+  },
+  {
+    "name": "Tech Lead Python (IaaS/PaaS)",
+    "url": "https://hh.ru/vacancy/122345774",
+    "salary": null
+  },
+  {
+    "name": "Lead Data Engineer / Руководитель группы разработки MDM",
+    "url": "https://hh.ru/vacancy/123532668",
+    "salary": null
+  },
+  {
+    "name": "Senior Data Scientist в Безопасность бэк-офиса [Trust and Safety]",
+    "url": "https://hh.ru/vacancy/123820109",
+    "salary": null
+  },
+  {
+    "name": "Senior Python в команду \"Платформа\"",
+    "url": "https://hh.ru/vacancy/124759105",
+    "salary": null
+  },
+  {
+    "name": "Senior FullStack Developer",
+    "url": "https://hh.ru/vacancy/125123429",
+    "salary": {
+      "from": null,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "AI-разработчик (Python&RAG)",
+    "url": "https://hh.ru/vacancy/124596083",
+    "salary": {
+      "from": null,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124824718",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик middle+/senior",
+    "url": "https://hh.ru/vacancy/124556630",
+    "salary": null
+  },
+  {
+    "name": "Middle frontend-разработчик",
+    "url": "https://hh.ru/vacancy/124587483",
+    "salary": {
+      "from": null,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/124075153",
+    "salary": null
+  },
+  {
+    "name": "Middle Backend Developer Python (Сore Team)",
+    "url": "https://hh.ru/vacancy/124227435",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124839233",
+    "salary": null
+  },
+  {
+    "name": "Бекенд разработчик в Gamedev (Python)",
+    "url": "https://hh.ru/vacancy/124390338",
+    "salary": null
+  },
+  {
+    "name": "Junior backend-разработчик",
+    "url": "https://hh.ru/vacancy/124719499",
+    "salary": {
+      "from": 80000,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Ведущий разработчик искусственного интеллекта/Middle Data scientist",
+    "url": "https://hh.ru/vacancy/124148614",
+    "salary": {
+      "from": 180000,
+      "to": 180000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124882428",
+    "salary": null
+  },
+  {
+    "name": "Middle python backend-разработчик",
+    "url": "https://hh.ru/vacancy/124806601",
+    "salary": {
+      "from": 130000,
+      "to": 180000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124085953",
+    "salary": {
+      "from": 120000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python developer (Middle)",
+    "url": "https://hh.ru/vacancy/124772321",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик (Middle/Senior/Lead)",
+    "url": "https://hh.ru/vacancy/124718805",
+    "salary": {
+      "from": 240000,
+      "to": 270000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124725024",
+    "salary": null
+  },
+  {
+    "name": "UX/UI-дизайнер",
+    "url": "https://hh.ru/vacancy/124930696",
+    "salary": null
+  },
+  {
+    "name": "Middle backend Developer (Python/FAST API)",
+    "url": "https://hh.ru/vacancy/124709860",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (Middle+)",
+    "url": "https://hh.ru/vacancy/123886200",
+    "salary": {
+      "from": 2500,
+      "to": 3000,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/124569762",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Инженер машинного обучения (ML-инженер)",
+    "url": "https://hh.ru/vacancy/124385650",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/124594010",
+    "salary": {
+      "from": 250000,
+      "to": 500000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python Developer (Backend / Data Engineering)",
+    "url": "https://hh.ru/vacancy/124165734",
+    "salary": {
+      "from": null,
+      "to": 320000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Технический директор (CTO)",
+    "url": "https://hh.ru/vacancy/125077353",
+    "salary": null
+  },
+  {
+    "name": "Senior Python developer",
+    "url": "https://hh.ru/vacancy/124628085",
+    "salary": {
+      "from": null,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/123664243",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (ЭДО)",
+    "url": "https://hh.ru/vacancy/124964570",
+    "salary": null
+  },
+  {
+    "name": "Prompt-инженер",
+    "url": "https://hh.ru/vacancy/124536986",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124154656",
+    "salary": {
+      "from": null,
+      "to": 180000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/124122512",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик (Senior)",
+    "url": "https://hh.ru/vacancy/124801575",
+    "salary": null
+  },
+  {
+    "name": "Менеджер проектов по искусственному интеллекту",
+    "url": "https://hh.ru/vacancy/124891381",
+    "salary": {
+      "from": 380000,
+      "to": 507000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик / Senior",
+    "url": "https://hh.ru/vacancy/124918814",
+    "salary": null
+  },
+  {
+    "name": "Junior Python разработчик",
+    "url": "https://hh.ru/vacancy/124079633",
+    "salary": {
+      "from": 90000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Teamlead backend",
+    "url": "https://hh.ru/vacancy/123977008",
+    "salary": {
+      "from": 200000,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python Developer Middle+/Senior",
+    "url": "https://hh.ru/vacancy/124084201",
+    "salary": null
+  },
+  {
+    "name": "AI Engineer",
+    "url": "https://hh.ru/vacancy/123421302",
+    "salary": null
+  },
+  {
+    "name": "ML Engineer (recommendations)",
+    "url": "https://hh.ru/vacancy/124605390",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124170500",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/123496326",
+    "salary": null
+  },
+  {
+    "name": "Python Backend Developer",
+    "url": "https://hh.ru/vacancy/121361326",
+    "salary": {
+      "from": 100000,
+      "to": 220000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Бэк-енд разработчик/Python developer",
+    "url": "https://hh.ru/vacancy/124354488",
+    "salary": null
+  },
+  {
+    "name": "Backend-Developer Python (middle)",
+    "url": "https://hh.ru/vacancy/123877753",
+    "salary": null
+  },
+  {
+    "name": "Middle Full Stack developer (Python, JS)",
+    "url": "https://hh.ru/vacancy/122037625",
+    "salary": null
+  },
+  {
+    "name": "ML Engineer",
+    "url": "https://hh.ru/vacancy/124830663",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/123928702",
+    "salary": null
+  },
+  {
+    "name": "LLM Engineer (NLP / Generative AI)",
+    "url": "https://hh.ru/vacancy/124708068",
+    "salary": {
+      "from": 2000,
+      "to": 3000,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "LLM/ML-разработчик на python",
+    "url": "https://hh.ru/vacancy/124446231",
+    "salary": {
+      "from": null,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/124170397",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Python в LLM Platform",
+    "url": "https://hh.ru/vacancy/124748121",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/124170582",
+    "salary": null
+  },
+  {
+    "name": "Ведущий backend-разработчик",
+    "url": "https://hh.ru/vacancy/124594012",
+    "salary": {
+      "from": 250000,
+      "to": 500000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Backend-разработчик (FastAPI)",
+    "url": "https://hh.ru/vacancy/124220703",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (Data Science)",
+    "url": "https://hh.ru/vacancy/124964581",
+    "salary": null
+  },
+  {
+    "name": "Инженер DevOps/Python (Marzban/Xray, VPN)",
+    "url": "https://hh.ru/vacancy/124545217",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/87838855",
+    "salary": {
+      "from": 200000,
+      "to": 287000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Back-end разработчик (Python)",
+    "url": "https://hh.ru/vacancy/124930021",
+    "salary": null
+  },
+  {
+    "name": "Data Scientist",
+    "url": "https://hh.ru/vacancy/122137273",
+    "salary": null
+  },
+  {
+    "name": "Разработчик (мидл бэкенд)",
+    "url": "https://hh.ru/vacancy/123066997",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (middle/senior)",
+    "url": "https://hh.ru/vacancy/121047227",
+    "salary": null
+  },
+  {
+    "name": "ML - инженер (СКАН)",
+    "url": "https://hh.ru/vacancy/124826903",
+    "salary": null
+  },
+  {
+    "name": "Технический директор (CTO)",
+    "url": "https://hh.ru/vacancy/124204799",
+    "salary": null
+  },
+  {
+    "name": "Middle Python-разработчик",
+    "url": "https://hh.ru/vacancy/123981216",
+    "salary": null
+  },
+  {
+    "name": "Программист Python (отдел разработки и интеграции CRM-систем)",
+    "url": "https://hh.ru/vacancy/122323331",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Python Dbaas",
+    "url": "https://hh.ru/vacancy/124115846",
+    "salary": null
+  },
+  {
+    "name": "Разработчик бэкенда в IT-инфраструктуру офисов",
+    "url": "https://hh.ru/vacancy/124541917",
+    "salary": null
+  },
+  {
+    "name": "Ведущий разработчик Python",
+    "url": "https://hh.ru/vacancy/124601489",
+    "salary": null
+  },
+  {
+    "name": "Тимлид разработки (Python)",
+    "url": "https://hh.ru/vacancy/124826363",
+    "salary": null
+  },
+  {
+    "name": "Ведущий Backend-разработчик на Python TechLead | Senior Python Backend Developer",
+    "url": "https://hh.ru/vacancy/123481410",
+    "salary": null
+  },
+  {
+    "name": "Junior Fullstack разработчик",
+    "url": "https://hh.ru/vacancy/124281497",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик (ESC)",
+    "url": "https://hh.ru/vacancy/124188276",
+    "salary": null
+  },
+  {
+    "name": "Data Scientist/ML-инженер (OCR)",
+    "url": "https://hh.ru/vacancy/122638650",
+    "salary": null
+  },
+  {
+    "name": "DevOps (SRE) engineer",
+    "url": "https://hh.ru/vacancy/124292199",
+    "salary": {
+      "from": 200000,
+      "to": 300000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "PHP-программист middle/senior",
+    "url": "https://hh.ru/vacancy/124338631",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Machine Learning Engineer / Инженер по Машинному Обучению",
+    "url": "https://hh.ru/vacancy/122866510",
+    "salary": {
+      "from": 100000,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Инженер по сопровождению программно-аппаратного комплекса телефонии (Python)",
+    "url": "https://hh.ru/vacancy/123998540",
+    "salary": null
+  },
+  {
+    "name": "Ведущий Python-разработчик (со знанием JS)",
+    "url": "https://hh.ru/vacancy/123457097",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (Dubai onsite)",
+    "url": "https://hh.ru/vacancy/124219425",
+    "salary": null
+  },
+  {
+    "name": "Middle+ Python Developer",
+    "url": "https://hh.ru/vacancy/124437138",
+    "salary": {
+      "from": 250000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Системный аналитик",
+    "url": "https://hh.ru/vacancy/124548509",
+    "salary": {
+      "from": null,
+      "to": 250000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "AI/AI-agent developer (Python)",
+    "url": "https://hh.ru/vacancy/123026105",
+    "salary": null
+  },
+  {
+    "name": "Botpress-разработчик (чат-бот, интеграции с OpenAI и FastAPI)",
+    "url": "https://hh.ru/vacancy/124556516",
+    "salary": {
+      "from": 700,
+      "to": 900,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python разработчик (ML, LLM)",
+    "url": "https://hh.ru/vacancy/124136965",
+    "salary": null
+  },
+  {
+    "name": "Senior backend разработчик (Python)",
+    "url": "https://hh.ru/vacancy/124026691",
+    "salary": null
+  },
+  {
+    "name": "Team Lead Python (команда Доки)",
+    "url": "https://hh.ru/vacancy/124449161",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик в VK Видео, Санкт-Петербург",
+    "url": "https://hh.ru/vacancy/123757956",
+    "salary": null
+  },
+  {
+    "name": "AI/NLP Разработчик (LLM + RAG) / Voice & Backend Integration",
+    "url": "https://hh.ru/vacancy/124290529",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик AI-проектов в Эйчартех",
+    "url": "https://hh.ru/vacancy/124403608",
+    "salary": null
+  },
+  {
+    "name": "Middle AI/AI-agent developer (Python)",
+    "url": "https://hh.ru/vacancy/124704305",
+    "salary": null
+  },
+  {
+    "name": "Инженер по машинному обучению",
+    "url": "https://hh.ru/vacancy/124380151",
+    "salary": null
+  },
+  {
+    "name": "AI/AI-agent developer (Python)",
+    "url": "https://hh.ru/vacancy/124708161",
+    "salary": null
+  },
+  {
+    "name": "Middle Data Scientist",
+    "url": "https://hh.ru/vacancy/124309762",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик (DBaaS)",
+    "url": "https://hh.ru/vacancy/123313026",
+    "salary": null
+  },
+  {
+    "name": "Middle+ ML Backend Engineer",
+    "url": "https://hh.ru/vacancy/124173531",
+    "salary": null
+  },
+  {
+    "name": "Tech Lead на Python",
+    "url": "https://hh.ru/vacancy/124637836",
+    "salary": null
+  },
+  {
+    "name": "Руководитель WEB - разработки",
+    "url": "https://hh.ru/vacancy/124268023",
+    "salary": null
+  },
+  {
+    "name": "Главный разработчик (Проект \"Сирин\" Платформа Лукоморье)",
+    "url": "https://hh.ru/vacancy/124285702",
+    "salary": null
+  },
+  {
+    "name": "MLOps - специалист",
+    "url": "https://hh.ru/vacancy/124629204",
+    "salary": null
+  },
+  {
+    "name": "Техлид",
+    "url": "https://hh.ru/vacancy/124422435",
+    "salary": null
+  },
+  {
+    "name": "AI/AI-agent developer (Python) - senior",
+    "url": "https://hh.ru/vacancy/124702032",
+    "salary": {
+      "from": null,
+      "to": 170000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/124823476",
+    "salary": null
+  },
+  {
+    "name": "Аналитик баз данных/Data Analyst",
+    "url": "https://hh.ru/vacancy/125083438",
+    "salary": null
+  },
+  {
+    "name": "Frontend-разработчик (React / Next.js)",
+    "url": "https://hh.ru/vacancy/124419934",
+    "salary": null
+  },
+  {
+    "name": "Аналитик баз данных/Data Analyst",
+    "url": "https://hh.ru/vacancy/125083439",
+    "salary": null
+  },
+  {
+    "name": "Python Developer (Junior+/Middle)",
+    "url": "https://hh.ru/vacancy/124226366",
+    "salary": {
+      "from": 1300,
+      "to": 1600,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Developer Backend",
+    "url": "https://hh.ru/vacancy/124104637",
+    "salary": {
+      "from": 80000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Аналитик баз данных/Data Analyst",
+    "url": "https://hh.ru/vacancy/125083440",
+    "salary": null
+  },
+  {
+    "name": "Frontend-разработчик (React / Next.js)",
+    "url": "https://hh.ru/vacancy/124618277",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик (Senior)",
+    "url": "https://hh.ru/vacancy/124225549",
+    "salary": {
+      "from": null,
+      "to": 400000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Senior Backend developer - Python / Бэкенд Разработчик",
+    "url": "https://hh.ru/vacancy/124995601",
+    "salary": {
+      "from": 5000,
+      "to": null,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/105758050",
+    "salary": null
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/122493254",
+    "salary": {
+      "from": 150000,
+      "to": 240000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/119816398",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/123927226",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Специалист по разработке и анализу данных",
+    "url": "https://hh.ru/vacancy/124782357",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/105758081",
+    "salary": null
+  },
+  {
+    "name": "Senior Backend developer - Python / Бэкенд Разработчик",
+    "url": "https://hh.ru/vacancy/124995602",
+    "salary": {
+      "from": 5000,
+      "to": null,
+      "currency": "USD",
+      "gross": false
+    }
+  },
+  {
+    "name": "Python Developer (LLM / AI Agents)",
+    "url": "https://hh.ru/vacancy/124661669",
+    "salary": {
+      "from": 2000,
+      "to": 3000,
+      "currency": "USD",
+      "gross": true
+    }
+  },
+  {
+    "name": "Инженер-программист (программист/разработчик/developer Python)",
+    "url": "https://hh.ru/vacancy/120539081",
+    "salary": null
+  },
+  {
+    "name": "ML Ops",
+    "url": "https://hh.ru/vacancy/124937207",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик в офис",
+    "url": "https://hh.ru/vacancy/124514951",
+    "salary": null
+  },
+  {
+    "name": "Trainee/Python Developer",
+    "url": "https://hh.ru/vacancy/124648751",
+    "salary": null
+  },
+  {
+    "name": "Системный аналитик",
+    "url": "https://hh.ru/vacancy/124585619",
+    "salary": null
+  },
+  {
+    "name": "Trainee Python Developer",
+    "url": "https://hh.ru/vacancy/124156636",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/123983414",
+    "salary": null
+  },
+  {
+    "name": "Специалист по разработке и анализу данных",
+    "url": "https://hh.ru/vacancy/124782356",
+    "salary": null
+  },
+  {
+    "name": "Trainee/Python Developer",
+    "url": "https://hh.ru/vacancy/124648750",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/122309732",
+    "salary": {
+      "from": 375000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Специалист по разработке и анализу данных",
+    "url": "https://hh.ru/vacancy/124782359",
+    "salary": null
+  },
+  {
+    "name": "Python разработчик в офис",
+    "url": "https://hh.ru/vacancy/124514908",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/122309728",
+    "salary": {
+      "from": 375000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/122309729",
+    "salary": {
+      "from": 375000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Trainee/Python Developer",
+    "url": "https://hh.ru/vacancy/124648752",
+    "salary": null
+  },
+  {
+    "name": "Разработчик Python в LLM Platform",
+    "url": "https://hh.ru/vacancy/124054145",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/122309733",
+    "salary": {
+      "from": 375000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Специалист по разработке и анализу данных",
+    "url": "https://hh.ru/vacancy/124782358",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/123904769",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик",
+    "url": "https://hh.ru/vacancy/123983409",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/122309730",
+    "salary": {
+      "from": 375000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Разработчик Python в LLM Platform",
+    "url": "https://hh.ru/vacancy/124046929",
+    "salary": null
+  },
+  {
+    "name": "Ведущий разработчик (Python), Fintech",
+    "url": "https://hh.ru/vacancy/124083792",
+    "salary": {
+      "from": 300000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Разработчик Python в LLM Platform",
+    "url": "https://hh.ru/vacancy/124053575",
+    "salary": null
+  },
+  {
+    "name": "Fullstack-разработчик Python React",
+    "url": "https://hh.ru/vacancy/124614184",
+    "salary": {
+      "from": 90000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    }
+  },
+  {
+    "name": "Ведущий ML инженер",
+    "url": "https://hh.ru/vacancy/123933252",
+    "salary": null
+  },
+  {
+    "name": "Full Stack Engineer",
+    "url": "https://hh.ru/vacancy/124496490",
+    "salary": null
+  },
+  {
+    "name": "AWS Cloud Architect",
+    "url": "https://hh.ru/vacancy/124826426",
+    "salary": null
+  },
+  {
+    "name": "AWS Cloud Architect",
+    "url": "https://hh.ru/vacancy/124826425",
+    "salary": null
+  },
+  {
+    "name": "AWS Cloud Architect",
+    "url": "https://hh.ru/vacancy/124826423",
+    "salary": null
+  },
+  {
+    "name": "AWS Cloud Architect",
+    "url": "https://hh.ru/vacancy/124826422",
+    "salary": null
+  },
+  {
+    "name": "Senior Data Scientist в команду NLP Search",
+    "url": "https://hh.ru/vacancy/124563468",
+    "salary": null
+  },
+  {
+    "name": "Senior Аналитик в команду \"Рекомендации\"",
+    "url": "https://hh.ru/vacancy/119958842",
+    "salary": null
+  },
+  {
+    "name": "Data Scientist в команду Интегрированного бизнес-планирования",
+    "url": "https://hh.ru/vacancy/124562904",
+    "salary": null
+  },
+  {
+    "name": "AWS Cloud Architect",
+    "url": "https://hh.ru/vacancy/124826421",
+    "salary": null
+  },
+  {
+    "name": "Technical Lead Backend на Python в Фемиду",
+    "url": "https://hh.ru/vacancy/124403643",
+    "salary": null
+  },
+  {
+    "name": "Senior NLP Engineer (Центр практического искусственного интеллекта)",
+    "url": "https://hh.ru/vacancy/124603219",
+    "salary": null
+  },
+  {
+    "name": "AWS Cloud Architect",
+    "url": "https://hh.ru/vacancy/124826424",
+    "salary": null
+  },
+  {
+    "name": "ML Engineer (\"Search\")",
+    "url": "https://hh.ru/vacancy/119961398",
+    "salary": null
+  },
+  {
+    "name": "Аналитик-разработчик команда \"Поиск\" (middle+/senior)",
+    "url": "https://hh.ru/vacancy/121806812",
+    "salary": null
+  },
+  {
+    "name": "Data Analyst \"Платформа экспериментов\"",
+    "url": "https://hh.ru/vacancy/121806756",
+    "salary": null
+  },
+  {
+    "name": "AWS Cloud Architect",
+    "url": "https://hh.ru/vacancy/124826427",
+    "salary": null
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/123965438",
+    "salary": null
+  },
+  {
+    "name": "Старший DS-инженер (Группа прогнозирования и оптимизации, Ozon Fresh)",
+    "url": "https://hh.ru/vacancy/124880758",
+    "salary": null
+  },
+  {
+    "name": "Senior AI Engineer",
+    "url": "https://hh.ru/vacancy/124294186",
+    "salary": null
+  },
+  {
+    "name": "Разработчик-эксперт python\\Архитектор (IaaS/PaaS)",
+    "url": "https://hh.ru/vacancy/124507743",
+    "salary": null
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/124594011",
+    "salary": {
+      "from": 250000,
+      "to": 500000,
+      "currency": "RUR",
+      "gross": true
+    }
+  },
+  {
+    "name": "Senior Data Scientist в команду NLP Search",
+    "url": "https://hh.ru/vacancy/124114434",
+    "salary": null
+  },
+  {
+    "name": "Python-разработчик AI-проектов в Эйчартех",
+    "url": "https://hh.ru/vacancy/124403607",
+    "salary": null
+  }
+]
